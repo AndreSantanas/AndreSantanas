@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Banner do Perfil">
+</p>
 # Olá! Eu sou Andre Santana 👋
 
 ### Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras.
@@ -16,11 +19,10 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Linguagens Mais Usadas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreSantanas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSantanas&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
@@ -31,7 +33,7 @@
   <tr>
     <td valign="top" width="50%">
       <h3>Front-End</h3>
-      <div style="display: flex; flex-direction: row; align-items: flex-start;">
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -43,7 +45,7 @@
     </td>
     <td valign="top" width="50%">
       <h3>Back-End</h3>
-      <div style="display: flex; flex-direction: row; align-items: flex-start;">
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -55,14 +57,15 @@
   <tr>
     <td valign="top" width="50%">
       <h3>Banco de Dados</h3>
-      <div style="display: flex; flex-direction: row; align-items: flex-start;">
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       </div>
     </td>
     <td valign="top" width="50%">
       <h3>Hardware e Programação Embarcada</h3>
-      <div style="display: flex; flex-direction: row; align-items: flex-start;">
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+        <img src="https://img.shields.io/badge/ESP32-E73327?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       </div>
     </td>
@@ -70,7 +73,7 @@
   <tr>
     <td valign="top" width="50%">
       <h3>Ferramentas e Servidores</h3>
-      <div style="display: flex; flex-direction: row; align-items: flex-start;">
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
@@ -79,6 +82,6 @@
       </div>
     </td>
     <td valign="top" width="50%">
-      </td>
+    </td>
   </tr>
 </table>
